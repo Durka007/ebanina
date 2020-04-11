@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zad3", "Zad3\Zad3.vcxproj", "{10E1CFA9-249F-4E13-9D63-723AAB537245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Debug|x64.ActiveCfg = Debug|x64
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Debug|x64.Build.0 = Debug|x64
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Debug|x86.ActiveCfg = Debug|Win32
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Debug|x86.Build.0 = Debug|Win32
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Release|x64.ActiveCfg = Release|x64
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Release|x64.Build.0 = Release|x64
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Release|x86.ActiveCfg = Release|Win32
+		{10E1CFA9-249F-4E13-9D63-723AAB537245}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE09E6C4-ACE5-4BF4-89C4-45F7C9CB5327}
+	EndGlobalSection
+EndGlobal
